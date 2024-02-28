@@ -72,9 +72,5 @@ All hyperparameters can be tuned in the `utils.py`
 
 ## 💡 Todo
 
-- [x] Clean the unuse function and write more comments.
 - [x] Provide our ablation study codes.
-- [x] Replace the unnoticed Chinese comments in English.
-- [x] Make a suitable padding way to adapt the molecules with more than 100 atoms, which will be used in the protein (long period).
-- [x] Try our best to reduce the training time and the using memory, especially for the large dataset (long period).
 
